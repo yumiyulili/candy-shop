@@ -15,9 +15,9 @@ export default {
     width: 320px;
     height: 310px;
     background-color: rgba(255, 255, 255, 0.66);
-   
-    position: absolute;
+    position: relative;
     border-radius: 13px;
+    display: flex;
 }
 
 </style>
