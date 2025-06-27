@@ -29,7 +29,6 @@ button {
     transition: 0.2s ease;
     display: flex;
     padding: 3px;
-    padding-left: 13px;
 
 }
 
