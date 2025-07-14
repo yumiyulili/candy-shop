@@ -45,7 +45,7 @@ img{
 h2{
     color: rgb(92, 92, 92);
     margin-left: 42%;
-    font-size: 20px;
+    font-size: 18px;
     margin-top: -3px;
 }
 h3{
